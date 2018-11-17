@@ -14,9 +14,8 @@ Summary: Pretty, human readable formatting of quantities. Time intervals: 133700
 Current build status
 ====================
 
-[![Linux](https://img.shields.io/circleci/project/github/conda-forge/r-prettyunits-feedstock/master.svg?label=Linux)](https://circleci.com/gh/conda-forge/r-prettyunits-feedstock)
-[![OSX](https://img.shields.io/travis/conda-forge/r-prettyunits-feedstock/master.svg?label=macOS)](https://travis-ci.org/conda-forge/r-prettyunits-feedstock)
-[![Windows](https://img.shields.io/appveyor/ci/conda-forge/r-prettyunits-feedstock/master.svg?label=Windows)](https://ci.appveyor.com/project/conda-forge/r-prettyunits-feedstock/branch/master)
+All platforms:
+[![noarch](https://img.shields.io/circleci/project/github/conda-forge/r-prettyunits-feedstock/master.svg?label=noarch)](https://circleci.com/gh/conda-forge/r-prettyunits-feedstock)
 
 Current release info
 ====================
