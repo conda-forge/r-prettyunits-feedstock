@@ -1,11 +1,11 @@
-About r-prettyunits
-===================
+About r-prettyunits-feedstock
+=============================
+
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-prettyunits-feedstock/blob/main/LICENSE.txt)
 
 Home: https://github.com/gaborcsardi/prettyunits
 
 Package license: MIT
-
-Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-prettyunits-feedstock/blob/main/LICENSE.txt)
 
 Summary: Pretty, human readable formatting of quantities. Time intervals: 1337000 -> 15d 11h 23m 20s. Vague time intervals: 2674000 -> about a month ago. Bytes: 1337 -> 1.34 kB.
 
